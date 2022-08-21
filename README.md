@@ -1,2 +1,2 @@
 # learn_kubernetes_config
-Helm chart for learn Kubernetes
+Helm chart for Kubernetes
